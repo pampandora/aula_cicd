@@ -4,7 +4,7 @@
 void testar(){
   //função de teste simples
   assert(1 == 1); //verifica se 1 é igual a 1
-  printf("teste passou\n");
+  printf("Alteração de código testada com sucesso!\n");
 }
 
 int main(){
