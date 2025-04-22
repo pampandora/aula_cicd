@@ -15,7 +15,7 @@ jobs:
       uses: sudo apt update && sudo apt install build-essential -y
 
     - name: Compilar programa
-      uses: gcc GitHub.c -o programa
+      uses: gcc github.c -o programa
 
     - name: Executar o programa
       uses: ./programa
