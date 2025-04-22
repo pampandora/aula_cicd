@@ -1,4 +1,4 @@
-#include <studio>
+#include <studio.h>
 
 int main(){
   printf("Olá GitHub Actions!\n");
